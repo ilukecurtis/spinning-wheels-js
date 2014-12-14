@@ -1,0 +1,182 @@
+body {
+	background-image:url(pictures/background.jpg); 
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+#wrapper {
+	position: relative;
+	min-width: 920px;
+	margin: 0px auto;
+	width: 920px;
+	background-color:#ffffff;
+}
+#tokens {
+	font-family:arial;
+	font-size:35px;
+	color:#ff0000;
+	float:left;
+}
+#tok{
+	float:left;
+	font-family:arial;
+	font-size:35px;
+	color:#ff0000;
+	float:left;
+
+}
+#sessionNumber {
+	font-family:arial;
+	font-size:40px;
+	color:#ff0000;
+	width:200px;
+	min-width: 230px;
+	float:left;
+	margin-left:95px;
+	margin-right:85px;
+}
+#sess{
+	font-family:arial;
+	font-size:40px;
+	color:#ff0000;
+	float:right;
+}
+
+#winnings{
+	font-family:arial;
+	font-size:40px;
+	color:#ff0000;
+	width:250px;
+	min-width:250px;
+	float:right;
+}
+#win{
+font-family:arial;
+	font-size:40px;
+	color:#ff0000;
+	float:right;
+}
+#banner {
+	min-height:370px;
+	min-width:600px;
+	background-color:#ffffff;
+	background-image:url(pictures/banner.jpg);
+	background-repeat: no-repeat;
+	margin-left: 100px;
+	margin-right:100px;
+	margin-top:10px;
+}
+#image1 {
+	min-height:350px;
+	min-width:250px;
+	background-image:url(pictures/3.jpg);
+	background-repeat:no-repeat;
+	float:left;
+	margin:1px;
+	margin-left:70px;
+}
+#image2 {
+	min-height:350px;
+	min-width:250px;
+	background-image:url(pictures/3.jpg);
+	background-repeat:no-repeat;
+	float:left;
+}
+#image3 {
+	min-height:350px;
+	min-width:250px;
+	background-image:url(pictures/3.jpg);
+	background-repeat:no-repeat;
+	float:left;
+	margin:1px;
+	margin-right:70px;
+}
+#prizes {
+	visibility:hidden;
+	min-width: 450px;
+	margin-left:225px;
+	margin-right:225px;
+	width: 450px;
+}
+#random{
+	float:left;
+	background-image:url(pictures/play.jpg);
+	min-height:100px;
+	min-width:200px;
+	margin-right:150px;
+}
+#pay {
+	float:left;
+	background-image:url(pictures/pay.jpg);
+	min-height:100px;
+	min-width:200px;
+	margin-right:150px;
+}
+#collectDiv {
+	float:left;
+	background-image:url(pictures/collect.jpg);
+	min-height:100px;
+	min-width:200px;
+}
+#collect {
+	height:100px;
+	width:200px;
+	background: transparent;
+    border: none !important;
+}
+#notification{
+	min-width:450px;
+	margin-left:225px;
+	margin-right:225px;
+	text-align:center;
+	font-family:arial;
+	font-size:20px;
+	color:blue;
+}
+#prizes {
+	margin-top:50px;
+}
+#bottomData{
+	position:relative;
+	padding-top:330px;
+}
+.rewardText {
+	font-family:arial;
+	font-size:12px;
+	color:#ff0000;
+}
+#assignment2{
+	text-align:center;
+	font-family:arial;
+}
+.loginfo{
+	text-align:center;
+	font-family:arial;
+	font-size:20px;
+}
+.highTableTop{
+	margin-left:500px;
+	font-family:arial;
+	width:100%;
+	border-collapse:collapse;
+	background-color: #3399FF;
+	text-align:center;
+	padding:20px;
+}
+.highTableData{
+padding:10px;
+	background-color:#99CCFF;
+	border-collapse:collapse;
+	font-family:arial;
+	text-align:center;
+}
+.highTableScore{
+	background-color:#99CCFF;
+	border-collapse:collapse;
+	font-family:arial;
+	text-align:center;
+}
+table{
+	padding:10px;
+	margin-left:auto; 
+    margin-right:auto;
+}
