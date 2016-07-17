@@ -18,7 +18,7 @@ session_start(); //Notes on js files, use create.php to reset database.
 <div id="banner"></div>
 <div id="assignment2">
 <div id="login">
-<p> Login: </p>
+<p> Login: TEST</p>
 		<input name="username" type="text" id="username">
 		<input name="password" type="password" id="password">
 		<input type="submit" name="Submit" value="Login" onclick="AJAXLogin()">
